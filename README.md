@@ -4,6 +4,7 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/agnes_silva00/)
 
 ![Agnes GitHub stats](https://github-readme-stats.vercel.app/api?username=bdsagnes&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsagnes)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que eu uso no meu dia 
 
